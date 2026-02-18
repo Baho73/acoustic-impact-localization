@@ -1,6 +1,6 @@
 # Acoustic Impact Localization
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-Optimization-8CAAE6?logo=scipy) ![License: MIT](https://img.shields.io/github/license/Baho73/acoustic-impact-localization)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-Optimization-8CAAE6?logo=scipy) ![License: MIT](https://img.shields.io/github/license/Baho73/acoustic-impact-localization) ![CI](https://github.com/Baho73/acoustic-impact-localization/actions/workflows/ci.yml/badge.svg)
 
 Determines the impact point on a surface using acoustic sensor triangulation. Six sensors detect the impact sound at different times; the algorithm computes the exact impact coordinates by solving a nonlinear least-squares problem.
 
